@@ -41,10 +41,7 @@
 
 ### 📊 My GitHub Stats & Activity (Radical Themes)
 
-<p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rammohan791&layout=compact&theme=radical" alt="Top Languages" height="180" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rammohan791&theme=radical" alt="GitHub Streak" />
