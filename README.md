@@ -22,11 +22,6 @@
   </a>
 </p>
 
-<!-- 💡 IMPRESSIVE ADDITION 2: Live Activity Trophies (Automated) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rammohan791&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ### 🛠️ Tech Stack & Skills
@@ -41,10 +36,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
 
 ---
 
