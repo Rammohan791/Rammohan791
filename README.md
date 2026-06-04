@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hello, I'm Rammohan!
 
-<!--
-**Rammohan791/Rammohan791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 💻 **Backend & Web Developer**
+- 🛠️ Currently building robust applications using **Java & Spring Boot**.
+- ⚡ Passionate about learning new technologies and writing clean, scalable code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills (Colorful Badges)
+
+<p align="left">
+  <!-- Java & Backend -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="SpringBoot" />
+  <img src="https://img.shields.io/badge/Servlets/JSP-E66000?style=for-the-badge&logo=oracle&logoColor=white" alt="Servlets" />
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 📊 My GitHub Stats & Activity (Radical Themes)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rammohan791&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Rammohan's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rammohan791&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rammohan791&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/ram-mohan-12075b402?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
