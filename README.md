@@ -5,7 +5,7 @@
 
 <!-- 🔥 NEW: Real-time Profile Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rammohan791&color=dodgerblue&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=rammohan791&color=1e90ff&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </p>
 
 # 👋 Hello, I'm Rammohan!
@@ -17,6 +17,21 @@
 
 ---
 
+### 🚀 Quick Developer Showcase
+<!-- 💡 IMPRESSIVE ADDITION 1: Animated Typing Effect for Roles -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=450&lines=Java+Full-Stack+Developer;Spring+Boot+Expert+in+Making;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- 💡 IMPRESSIVE ADDITION 2: Live Activity Trophies (Automated) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rammohan791&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack & Skills (Colorful Badges)
 
 <p align="left">
@@ -24,6 +39,10 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="SpringBoot" />
   <img src="https://img.shields.io/badge/Servlets/JSP-E66000?style=for-the-badge&logo=oracle&logoColor=white" alt="Servlets" />
+  
+  <!-- Databases & Tools (💡 IMPRESSIVE ADDITION 3: Backend Boost) -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -39,8 +58,8 @@
 ### 📊 My GitHub Stats & Activity (Radical Themes)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rammohan791&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Rammohan's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rammohan791&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rammohan791&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Rammohan's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rammohan791&layout=compact&theme=radical" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
