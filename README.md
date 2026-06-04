@@ -42,7 +42,7 @@
 ### 📊 My GitHub Stats & Activity (Radical Themes)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rammohan791&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Rammohan's GitHub Stats" height="180" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rammohan791&layout=compact&theme=radical" alt="Top Languages" height="180" />
 </p>
 
