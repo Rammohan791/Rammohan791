@@ -1,7 +1,4 @@
-<!-- 🔥 NEW: Top Colorful Gradient Banner -->
-<p align="center">
 
-</p>
 
 <!-- 🔥 NEW: Real-time Profile Visitor Counter -->
 <p align="center">
@@ -20,7 +17,9 @@
 ### 🚀 Quick Developer Showcase
 <!-- 💡 IMPRESSIVE ADDITION 1: Animated Typing Effect for Roles -->
 <p align="center">
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=450&lines=Java+Full-Stack+Developer;Spring+Boot+Expert+in+Making;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 </p>
 
 <!-- 💡 IMPRESSIVE ADDITION 2: Live Activity Trophies (Automated) -->
@@ -30,7 +29,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills (Colorful Badges)
+### 🛠️ Tech Stack & Skills
 
 <p align="left">
   <!-- Java & Backend -->
@@ -70,5 +69,7 @@
 </p>
 
 ---
+
+
 
 
