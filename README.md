@@ -1,6 +1,6 @@
 <!-- 🔥 NEW: Top Colorful Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=wave&color=gradient&height=200&section=header&text=RAM_MOHAN&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/type=wave&color=gradient&height=200&section=header&text=RAM_MOHAN&fontSize=70&animation=fadeIn&v=2026" width="100%" />
 </p>
 
 <!-- 🔥 NEW: Real-time Profile Visitor Counter -->
@@ -21,18 +21,18 @@
 <!-- 💡 IMPRESSIVE ADDITION 1: Animated Typing Effect for Roles -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=450&lines=Java+Full-Stack+Developer;Spring+Boot+Expert+in+Making;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=450&lines=Java+Full-Stack+Developer;Spring+Boot+Expert+in+Making;Open+Source+Contributor&v=2026" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- 💡 IMPRESSIVE ADDITION 2: Live Activity Trophies (Automated) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rammohan791&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rammohan791&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true&v=2026" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Skills (Colorful Badges)
 
 <p align="left">
   <!-- Java & Backend -->
@@ -45,7 +45,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   
-
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
@@ -53,12 +54,12 @@
 ### 📊 My GitHub Stats & Activity (Radical Themes)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rammohan791&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Rammohan's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rammohan791&layout=compact&theme=radical" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rammohan791&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=2026" alt="Rammohan's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rammohan791&layout=compact&theme=radical&v=2026" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rammohan791&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rammohan791&theme=radical&v=2026" alt="GitHub Streak" />
 </p>
 
 ---
@@ -74,5 +75,5 @@
 
 <!-- 🔥 NEW: Bottom Colorful Wave Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=wave&color=gradient&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/type=wave&color=gradient&height=100&section=footer&v=2026" width="100%" />
 </p>
