@@ -73,7 +73,4 @@
 
 ---
 
-<!-- 🔥 NEW: Bottom Colorful Wave Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=wave&color=gradient&height=100&section=footer" width="100%" />
-</p>
+
