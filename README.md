@@ -1,3 +1,13 @@
+<!-- 🔥 NEW: Top Colorful Gradient Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=wave&color=gradient&height=200&section=header&text=RAM_MOHAN&fontSize=70&animation=fadeIn" width="100%" />
+</p>
+
+<!-- 🔥 NEW: Real-time Profile Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rammohan791&color=dodgerblue&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+</p>
+
 # 👋 Hello, I'm Rammohan!
 
 ### 🚀 About Me
@@ -44,4 +54,11 @@
   <a href="https://www.linkedin.com/in/ram-mohan-12075b402?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+
+---
+
+<!-- 🔥 NEW: Bottom Colorful Wave Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=wave&color=gradient&height=100&section=footer" width="100%" />
 </p>
