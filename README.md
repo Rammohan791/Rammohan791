@@ -1,6 +1,6 @@
 <!-- 🔥 NEW: Top Colorful Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=wave&color=gradient&height=200&section=header&text=RAM_MOHAN&fontSize=70&animation=fadeIn" width="100%" />
+
 </p>
 
 <!-- 🔥 NEW: Real-time Profile Visitor Counter -->
@@ -20,9 +20,7 @@
 ### 🚀 Quick Developer Showcase
 <!-- 💡 IMPRESSIVE ADDITION 1: Animated Typing Effect for Roles -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
 
-  </a>
 </p>
 
 <!-- 💡 IMPRESSIVE ADDITION 2: Live Activity Trophies (Automated) -->
