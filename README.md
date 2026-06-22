@@ -1,11 +1,3 @@
-<!-- GitHub Stats Card (Gradient Theme) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Rammohan791&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rammohan791&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-
-<img src="https://img.shields.io/badge/React_JS-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React JS" />
-
 <!-- 🔥 NEW: Real-time Profile Visitor Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rammohan791&color=1e90ff&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
@@ -72,6 +64,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rammohan791&theme=radical" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <!-- GitHub Stats Card (Gradient Theme) -->
+<img src="https://github-readme-stats.vercel.app/api?username=Rammohan791&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rammohan791&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+
+</p>
 ---
 
 ### 🤝 Connect with me
