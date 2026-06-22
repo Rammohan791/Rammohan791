@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=rammohan791&color=1e90ff&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/type=waving&color=auto&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=40" alt="Header Banner" />
+
 
 # 👋 Hello, I'm Rammohan!
 
