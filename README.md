@@ -1,8 +1,8 @@
 <!-- GitHub Stats Card (Gradient Theme) -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rammohan791&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 <!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rammohan791&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
 
 <img src="https://img.shields.io/badge/React_JS-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React JS" />
 
