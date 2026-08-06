@@ -56,12 +56,12 @@
 ### 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=rammohan791&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Rammohan791&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rammohan791&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rammohan791&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rammohan791&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rammohan791&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 ### 🤝 Connect with me
 <p align="left">
