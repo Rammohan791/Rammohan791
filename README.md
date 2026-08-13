@@ -53,17 +53,14 @@
 </p>
 
 ---
-### 📊 My GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rammohan791&theme=radical" alt="GitHub Streak" />
-</p>
-
+📊 My GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rammohan791&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rammohan791&layout=compact&theme=radical" alt="Top Languages" />
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rammohan791&theme=radical&margin-w=15" alt="Ram Mohan GitHub Trophies" />
 </p>
-### 🤝 Connect with me
+</p>
+ 🤝 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/ram-mohan-12075b402" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
