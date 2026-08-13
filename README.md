@@ -56,7 +56,7 @@
 ### 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rammohan791&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rammohan791&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
