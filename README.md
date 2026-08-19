@@ -55,7 +55,7 @@
 ---
 📊 My GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rammohan791&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rammohan791&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openapi-initiative&logoColor=white" />
